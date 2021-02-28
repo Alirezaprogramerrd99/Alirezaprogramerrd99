@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![venom](https://github.com/Alirezaprogramerrd99/Alirezaprogramerrd99/blob/main/venom3.jpg?raw=true)
-
-
 
 Iam BSc student of computer engineering in Shahid Beheshti University.My favorite programming languages are java, python and C++. I have done several projects in hardware and worked with 8086 chip and stm32 microcontroller to.
 I also worked with some of the AI algos.
