@@ -17,12 +17,22 @@ Here are some ideas to get you started:
 
 # About me
 
+
 Iam BSc student of computer engineering in Shahid Beheshti University.My favorite programming languages are java, python and C++. I have done several projects in hardware and worked with 8086 chip and stm32 microcontroller to.
 I also worked with some of the AI algos.
 I currently learning computer networks and web programming.
 I really like computer networking and programming software and web applications.
 I live in Tehran (capital city of Iran). My other interests are music like playing guitar :guitar: and sports :soccer:.
 
+
 my email: arashidi1378@gmail.com
+
+
+# Languages & Technologies
+
+
+[![](https://img.shields.io/badge/-Java-white?logoColor=red&style=for-the-badge&logo=java)](https://www.java.com/)
+[![](https://img.shields.io/badge/-c++-lightblue?logoColor=blue&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
+
 
 ![venomLogo](https://github.com/Alirezaprogramerrd99/Alirezaprogramerrd99/blob/main/venom4.jpg?raw=true)
