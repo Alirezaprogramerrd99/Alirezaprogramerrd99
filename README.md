@@ -36,3 +36,7 @@ my email: arashidi1378@gmail.com
 
 
 ![venomLogo](https://github.com/Alirezaprogramerrd99/Alirezaprogramerrd99/blob/main/venom4.jpg?raw=true)
+
+
+
+[![Alireza Rashidi's github stats](https://github-readme-stats.vercel.app/api?username=Alirezaprogramerrd99&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
