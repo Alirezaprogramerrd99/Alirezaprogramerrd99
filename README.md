@@ -30,13 +30,10 @@ my email: arashidi1378@gmail.com
 
 # Languages & Technologies
 
-
 [![](https://img.shields.io/badge/-Java-white?logoColor=red&style=for-the-badge&logo=java)](https://www.java.com/)
 [![](https://img.shields.io/badge/-c++-lightblue?logoColor=blue&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
 
+[![Alireza Rashidi's github stats](https://github-readme-stats.vercel.app/api?username=Alirezaprogramerrd99&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![venomLogo](https://github.com/Alirezaprogramerrd99/Alirezaprogramerrd99/blob/main/venom4.jpg?raw=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezaprogramerrd99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Alireza Rashidi's github stats](https://github-readme-stats.vercel.app/api?username=Alirezaprogramerrd99&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
