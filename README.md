@@ -40,6 +40,9 @@ my email: arashidi1378@gmail.com
 [![](https://img.shields.io/badge/-Matlab-white?logoColor=orange&style=for-the-badge&logo=matlab)](https://www.mathworks.com/)
 [![](https://img.shields.io/badge/-javascript-F7DF1E?logoColor=white&style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-React-61DAFB?logoColor=white&style=for-the-badge&logo=react)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-git-white?logoColor=orange&style=for-the-badge&logo=git)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-ubuntu-white?logoColor=red&style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/-kaliLinux-blue?logoColor=white&style=for-the-badge&logo=kaliLinux)](https://www.kali.org/)
 
 [![Alireza Rashidi's github stats](https://github-readme-stats.vercel.app/api?username=Alirezaprogramerrd99&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
