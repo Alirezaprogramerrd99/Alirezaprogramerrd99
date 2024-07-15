@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 # About me
 
 
-I’m a BSc student of computer engineering at Shahid Beheshti University and I fiercely love programming thus, I always strive to learn new things. Additionally, I possess the Motivation to confront many challenges and obstacles with my programming skills. I have experience in various frameworks and technologies related to AI, software, and hardware.
-I usually exercise, listen to classical music, and play guitar for amusement.
+I hold a BSc in Computer Engineering from Shahid Beheshti University. With a deep passion for programming and development, I am constantly learning new frameworks and programming languages. My experience spans a variety of projects in AI, software, and hardware development. In my free time, I enjoy exercising, listening to classical music, and playing the guitar.
 
 
 my email: alireza.rashidi3034@gmail.com
