@@ -22,6 +22,7 @@ I hold a BSc in Computer Engineering from Shahid Beheshti University. With a dee
 
 
 my email: alireza.rashidi3034@gmail.com
+my website: https://alirezaprogramerrd99.github.io/personal-website/
 
 
 # Languages & Technologies
