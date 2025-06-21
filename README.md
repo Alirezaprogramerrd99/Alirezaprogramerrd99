@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # About me
 
 
-I hold a BSc in Computer Engineering from Shahid Beheshti University. With a deep passion for programming and development, I am constantly learning new frameworks and programming languages. My experience spans a variety of projects in AI, software, and hardware development. In my free time, I enjoy exercising, listening to classical music, and playing the guitar.
+Currently, I'm pursing master of Artificial Intelligence and Data Science at the University of Hull, UK. I hold a BSc in Computer Engineering from Shahid Beheshti University. With a deep passion for programming and development, I am constantly learning new frameworks and programming languages. My experience spans a variety of projects in AI (Machine Learning and Deep Learning), software, and hardware development. In my free time, I enjoy exercising, listening to classical music, and playing the guitar.
 
 
 my website: https://alirezaprogramerrd99.github.io/personal-website/
